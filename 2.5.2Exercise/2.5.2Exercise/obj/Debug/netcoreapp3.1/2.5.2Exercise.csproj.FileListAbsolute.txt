@@ -1,0 +1,12 @@
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.AssemblyInfoInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.AssemblyInfo.cs
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.csproj.CoreCompileInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.exe
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.deps.json
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.runtimeconfig.json
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.runtimeconfig.dev.json
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.dll
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\bin\Debug\netcoreapp3.1\2.5.2Exercise.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.dll
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\2.5.2Exercise\2.5.2Exercise\obj\Debug\netcoreapp3.1\2.5.2Exercise.genruntimeconfig.cache

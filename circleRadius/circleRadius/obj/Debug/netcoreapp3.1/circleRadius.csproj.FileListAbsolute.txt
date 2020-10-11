@@ -1,0 +1,4 @@
+C:\Users\iamco\Desktop\LC101\CSharp\Chapter 1\circleRadius\circleRadius\obj\Debug\netcoreapp3.1\circleRadius.csprojAssemblyReference.cache
+C:\Users\iamco\Desktop\LC101\CSharp\Chapter 1\circleRadius\circleRadius\obj\Debug\netcoreapp3.1\circleRadius.AssemblyInfoInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\Chapter 1\circleRadius\circleRadius\obj\Debug\netcoreapp3.1\circleRadius.AssemblyInfo.cs
+C:\Users\iamco\Desktop\LC101\CSharp\Chapter 1\circleRadius\circleRadius\obj\Debug\netcoreapp3.1\circleRadius.csproj.CoreCompileInputs.cache

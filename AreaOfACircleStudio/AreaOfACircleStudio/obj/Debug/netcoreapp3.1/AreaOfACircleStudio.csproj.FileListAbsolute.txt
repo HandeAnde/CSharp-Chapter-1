@@ -1,0 +1,13 @@
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.exe
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.deps.json
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.runtimeconfig.json
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.runtimeconfig.dev.json
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.dll
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\bin\Debug\netcoreapp3.1\AreaOfACircleStudio.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.csprojAssemblyReference.cache
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.AssemblyInfoInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.AssemblyInfo.cs
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.csproj.CoreCompileInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.dll
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\AreaOfACircleStudio\AreaOfACircleStudio\obj\Debug\netcoreapp3.1\AreaOfACircleStudio.genruntimeconfig.cache
